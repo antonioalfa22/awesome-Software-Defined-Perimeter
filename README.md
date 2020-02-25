@@ -25,6 +25,7 @@ This repository is a collection of resources related to 'Software Defined Perime
 ## Web content
 ## Videos
 ## Tutorial
+1.[Pluralsight - SDP-leveraging zero trust]https://www.pluralsight.com/courses/sdp-leveraging-zero-trust-create-network-security-architecture)
 
 ### Author
 
