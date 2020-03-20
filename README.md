@@ -16,6 +16,7 @@ This repository is a collection of resources related to 'Software Defined Perime
   6.[Software Defined Perimeter.pdf](https://github.com/iamhrishikeshpadhye/Software-Defined-Perimeter/blob/master/Guides/Software%20Defined%20Perimeter.pdf)<br>
   7.[Waverley Labs-SDP-White-paper.pdf](https://github.com/iamhrishikeshpadhye/Software-Defined-Perimeter/blob/master/Guides/Waverley%20Labs-SDP-White-paper.pdf)<br>
   8.[Zscaler - Using SDP to Secure Access to Private Apps Across Multi-Cloud Environments.pdf](https://github.com/iamhrishikeshpadhye/Software-Defined-Perimeter/blob/master/Guides/Zscaler%20-%20Using%20SDP%20to%20Secure%20Access%20to%20Private%20Apps%20Across%20Multi-Cloud%20Environments.pdf)<br>
+  9.[SDP - Glossary](https://github.com/iamhrishikeshpadhye/Software-Defined-Perimeter/blob/master/Guides/SDP-glossary.pdf)<br>
 ## GitHub Repositories
   1.[WaverleyLabs](https://github.com/WaverleyLabs):<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[WaverleyLabs/SDPController](https://github.com/WaverleyLabs/SDPcontroller)<br>
