@@ -24,8 +24,8 @@ This repository is a collection of resources related to 'Software Defined Perime
 ## GitHub Repositories
 
 1. [WaverleyLabs](https://github.com/WaverleyLabs):
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[WaverleyLabs/SDPController](https://github.com/WaverleyLabs/SDPcontroller)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[WaverleyLabs/fwknop](https://github.com/WaverleyLabs/fwknop)
+  1.1. [WaverleyLabs/SDPController](https://github.com/WaverleyLabs/SDPcontroller)
+  1.2. [WaverleyLabs/fwknop](https://github.com/WaverleyLabs/fwknop)
 2. [zenny/SDPerimeter](https://github.com/zenny/SD-Perimeter)
 3. [greenstatic/opensdp](https://github.com/greenstatic/opensdp)
 
